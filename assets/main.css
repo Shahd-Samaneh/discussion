@@ -1,0 +1,12 @@
+.popular-header .top span{
+        background-color: #E9E2FF;
+            color: #704FE6;
+}
+.popular-header .bottom .btn{
+        background-color: #704FE6;
+            
+}
+
+.card{
+    flex-basis: 400px;
+}
